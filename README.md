@@ -8,7 +8,7 @@ A primer course on TEM tailored to characterization of catalyst materials. This 
 4. "Fultz and Howe" Transmission Electron Microscopy and Diffractometry of Materials, 4th ed. Brent Fultz, James Howe
 
 
-# Tentative Schedule
+# Schedule
 
 Module 1: June 2-7th
 - Williams and Carter Ch. 1.
@@ -31,3 +31,4 @@ Module 3: July 7-18th
 - [Eric Stach Lecture 12, Diffraction from Crystals "Structure Factor"](https://nanohub.org/courses/TEM2/F2020)
 - [Eric Stach Lecture 13, Diffraction from Crystals "Shape Factor"](https://nanohub.org/courses/TEM2/F2020)
 - (Supplemental) Fultz and Howe "Scattering From a Lattice" chapter
+- (Bonus) [a good video on practical TEM alignment](https://www.youtube.com/watch?v=lgNAXLkLwwA) to reinfoce some of the concepts from module 2
